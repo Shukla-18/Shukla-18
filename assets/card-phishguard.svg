@@ -24,9 +24,9 @@
 <line x1="178" y1="14" x2="178" y2="186" stroke="#1e3a5f" stroke-width="1"/>
 <rect x="176" y="16" width="3" height="22" fill="#00d4ff" opacity=".5"/>
 <text x="190" y="32" font-family="Courier New,monospace" font-size="9" fill="#475569" letter-spacing="2">SHUKLA-18</text>
-<text x="190" y="54" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="16" fill="#e2e8f0">PHISHGUARD</text>
+<text x="190" y="54" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="13" fill="#e2e8f0">AI PHISHING DETECTION</text>
 <text x="190" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">AI-Enabled Phishing Link</text>
-<text x="190" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">Detection & Alert System</text>
+<text x="190" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">Detection &amp; Alert System</text>
 <rect x="190" y="104" width="53" height="14" rx="2" fill="#1e3a5f"/><text x="197" y="115" font-family="Courier New,monospace" font-size="8" fill="#00ff88" letter-spacing="1">PYTHON</text><rect x="251.0" y="104" width="27" height="14" rx="2" fill="#1e3a5f"/><text x="258.0" y="115" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" letter-spacing="1">ML</text><rect x="286.0" y="104" width="66" height="14" rx="2" fill="#1e3a5f"/><text x="293.0" y="115" font-family="Courier New,monospace" font-size="8" fill="#f59e0b" letter-spacing="1">SECURITY</text>
 <text x="190" y="160" font-family="Courier New,monospace" font-size="8" fill="#475569" letter-spacing="2">STATUS</text>
 <circle cx="190" cy="174" r="4" fill="#00ff88" filter="url(#g2)"/>

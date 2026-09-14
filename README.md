@@ -1,6 +1,6 @@
-<!-- =============================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              PRATHAM SHUKLA — GITHUB PROFILE README            -->
-<!-- =============================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Pratham Shukla — Cybersecurity Command Center"/>
@@ -8,7 +8,7 @@
 
 <br/>
 
-<!-- --- TELEMETRY BAR ------------------------------------------- -->
+<!-- ─── TELEMETRY BAR ─────────────────────────────────────────── -->
 <div align="center">
 
 <table>
@@ -25,7 +25,7 @@
 
 <br/>
 
-<!-- --- ABOUT -------------------------------------------------- -->
+<!-- ─── ABOUT ────────────────────────────────────────────────── -->
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -59,9 +59,9 @@ STATUS: ACTIVE
 
 ---
 
-<!-- --- SECURITY SPECIALIZATION --------------------------------- -->
+<!-- ─── SECURITY SPECIALIZATION ───────────────────────────────── -->
 
-### ░░ SECURITY SPECIALIZATION
+## 🛡️ Security Specialization
 
 <br/>
 
@@ -94,9 +94,9 @@ STATUS: ACTIVE
 
 ---
 
-<!-- --- PROJECT COMMAND CENTER ----------------------------------- -->
+<!-- ─── PROJECT COMMAND CENTER ─────────────────────────────────── -->
 
-### ░░ PROJECT COMMAND CENTER
+## 💻 Project Command Center
 
 <br/>
 
@@ -141,7 +141,7 @@ STATUS: ACTIVE
 <td align="center" colspan="2">
 
 <a href="https://github.com/Shukla-18/OSINT-Toolkit">
-  <img src="assets/card-osint.svg" width="60%" alt="OSINT Console"/>
+  <img src="assets/card-osint.svg" width="50%" alt="OSINT Console"/>
 </a>
 
 </td>
@@ -154,9 +154,9 @@ STATUS: ACTIVE
 
 ---
 
-<!-- --- SECURITY LAB --------------------------------------------- -->
+<!-- ─── SECURITY LAB ───────────────────────────────────────────── -->
 
-### ░░ SECURITY LAB
+## 🔬 Security Lab
 
 <br/>
 
@@ -178,9 +178,9 @@ STATUS: ACTIVE
 
 ---
 
-<!-- --- GITHUB STATISTICS ---------------------------------------- -->
+<!-- ─── GITHUB STATISTICS ──────────────────────────────────────── -->
 
-### ░░ GITHUB STATISTICS
+## 📊 GitHub Telemetry & Stats
 
 <br/>
 
@@ -198,9 +198,9 @@ STATUS: ACTIVE
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shukla-18&show_icons=true&theme=dark&bg_color=0d1427&title_color=00d4ff&text_color=e2e8f0&icon_color=00ff88&border_color=1e3a5f&hide_border=false&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shukla-18&theme=dark&bg_color=0d1427&title_color=00d4ff&text_color=e2e8f0&icon_color=00ff88&border_color=1e3a5f&show_icons=true&hide_border=false" alt="GitHub Stats"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shukla-18&layout=compact&theme=dark&bg_color=0d1427&title_color=00d4ff&text_color=e2e8f0&border_color=1e3a5f&langs_count=6" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shukla-18&theme=dark&bg_color=0d1427&title_color=00d4ff&text_color=e2e8f0&border_color=1e3a5f&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -214,7 +214,7 @@ STATUS: ACTIVE
 
 <br/>
 
-<!-- --- CONTRIBUTION GRAPH --------------------------------------- -->
+<!-- ─── CONTRIBUTION CALENDAR ──────────────────────────────────── -->
 
 <div align="center">
 
@@ -226,10 +226,10 @@ STATUS: ACTIVE
 
 ---
 
-<!-- --- FOOTER --------------------------------------------------- -->
+<!-- ─── FOOTER ─────────────────────────────────────────────────── -->
 
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt="Access Granted — Build. Break. Analyze. Secure."/>
 </div>
 
-<!-- =============================================================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
