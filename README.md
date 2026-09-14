@@ -1,6 +1,6 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- =============================================================== -->
 <!--              PRATHAM SHUKLA — GITHUB PROFILE README            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- =============================================================== -->
 
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="Pratham Shukla — Cybersecurity Command Center"/>
@@ -8,12 +8,12 @@
 
 <br/>
 
-<!-- ─── TELEMETRY BAR ─────────────────────────────────────────── -->
+<!-- --- TELEMETRY BAR ------------------------------------------- -->
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="20%"><br/><b><code>4</code></b><br/><sub>PROJECTS</sub><br/><br/></td>
+<td align="center" width="20%"><br/><b><code>5</code></b><br/><sub>PROJECTS</sub><br/><br/></td>
 <td align="center" width="20%"><br/><b><code>5+</code></b><br/><sub>CTFs</sub><br/><br/></td>
 <td align="center" width="20%"><br/><b><code>10+</code></b><br/><sub>SECURITY TOOLS</sub><br/><br/></td>
 <td align="center" width="20%"><br/><b><code>2</code></b><br/><sub>LANGUAGES</sub><br/><br/></td>
@@ -25,7 +25,7 @@
 
 <br/>
 
-<!-- ─── ABOUT ────────────────────────────────────────────────── -->
+<!-- --- ABOUT -------------------------------------------------- -->
 <table>
 <tr>
 <td valign="top" width="55%">
@@ -59,7 +59,7 @@ STATUS: ACTIVE
 
 ---
 
-<!-- ─── SECURITY SPECIALIZATION ───────────────────────────────── -->
+<!-- --- SECURITY SPECIALIZATION --------------------------------- -->
 
 ### ░░ SECURITY SPECIALIZATION
 
@@ -94,8 +94,7 @@ STATUS: ACTIVE
 
 ---
 
-<!-- ─── PROJECT COMMAND CENTER ─────────────────────────────────── -->
-<!-- Images: GitHub opengraph CDN — always available, no API key needed -->
+<!-- --- PROJECT COMMAND CENTER ----------------------------------- -->
 
 ### ░░ PROJECT COMMAND CENTER
 
@@ -108,23 +107,15 @@ STATUS: ACTIVE
 <td align="center" width="50%">
 
 <a href="https://github.com/Shukla-18/INTELLOG">
-  <img src="https://opengraph.githubassets.com/cybercmd/Shukla-18/INTELLOG" width="100%" alt="INTELLOG"/>
+  <img src="assets/card-intellog.svg" width="100%" alt="INTELLOG"/>
 </a>
-
-**`OPERATION: INTELLOG`** &nbsp;`ACTIVE`
-
-Hybrid Rule-Driven + AI-Assisted Cyber Forensics Investigation Platform
 
 </td>
 <td align="center" width="50%">
 
 <a href="https://github.com/Shukla-18/AI-Enabled-Phishing-Link-Detection-Alert-System">
-  <img src="https://opengraph.githubassets.com/cybercmd/Shukla-18/AI-Enabled-Phishing-Link-Detection-Alert-System" width="100%" alt="AI Phishing Detection"/>
+  <img src="assets/card-phishguard.svg" width="100%" alt="AI Phishing Detection"/>
 </a>
-
-**`OPERATION: PHISHGUARD`** &nbsp;`ACTIVE`
-
-AI-Enabled Phishing Link Detection & Alert System
 
 </td>
 </tr>
@@ -133,23 +124,15 @@ AI-Enabled Phishing Link Detection & Alert System
 <td align="center" width="50%">
 
 <a href="https://github.com/Shukla-18/Network-Traffic-Visualizer">
-  <img src="https://opengraph.githubassets.com/cybercmd/Shukla-18/Network-Traffic-Visualizer" width="100%" alt="Network Traffic Visualizer"/>
+  <img src="assets/card-netwatch.svg" width="100%" alt="Network Traffic Visualizer"/>
 </a>
-
-**`OPERATION: NETWATCH`** &nbsp;`DEPLOYED`
-
-Real-time Network Traffic Visualization & Analysis
 
 </td>
 <td align="center" width="50%">
 
 <a href="https://github.com/Shukla-18/Insider-Threat-Detection-System">
-  <img src="https://opengraph.githubassets.com/cybercmd/Shukla-18/Insider-Threat-Detection-System" width="100%" alt="Insider Threat Detection"/>
+  <img src="assets/card-sentinel.svg" width="100%" alt="Insider Threat Detection"/>
 </a>
-
-**`OPERATION: SENTINEL`** &nbsp;`ACTIVE`
-
-Behavioral Analysis for Insider Threat Detection
 
 </td>
 </tr>
@@ -158,12 +141,8 @@ Behavioral Analysis for Insider Threat Detection
 <td align="center" colspan="2">
 
 <a href="https://github.com/Shukla-18/OSINT-Toolkit">
-  <img src="https://opengraph.githubassets.com/cybercmd/Shukla-18/OSINT-Toolkit" width="55%" alt="OSINT Console"/>
+  <img src="assets/card-osint.svg" width="60%" alt="OSINT Console"/>
 </a>
-
-**`OPERATION: RECON CONSOLE`** &nbsp;`PROTOTYPE`
-
-All-source intelligence console for cyber-crime investigators and OSINT analysts. Pulls together open-source intel sources behind one dashboard — drop in an identifier (email, IP, domain, phone, username, wallet), get back a threat score plus entity link graph showing connections across people, domains, and infrastructure.
 
 </td>
 </tr>
@@ -175,7 +154,7 @@ All-source intelligence console for cyber-crime investigators and OSINT analysts
 
 ---
 
-<!-- ─── SECURITY LAB ───────────────────────────────────────────── -->
+<!-- --- SECURITY LAB --------------------------------------------- -->
 
 ### ░░ SECURITY LAB
 
@@ -199,7 +178,7 @@ All-source intelligence console for cyber-crime investigators and OSINT analysts
 
 ---
 
-<!-- ─── GITHUB STATISTICS ──────────────────────────────────────── -->
+<!-- --- GITHUB STATISTICS ---------------------------------------- -->
 
 ### ░░ GITHUB STATISTICS
 
@@ -235,7 +214,7 @@ All-source intelligence console for cyber-crime investigators and OSINT analysts
 
 <br/>
 
-<!-- ─── CONTRIBUTION GRAPH ─────────────────────────────────────── -->
+<!-- --- CONTRIBUTION GRAPH --------------------------------------- -->
 
 <div align="center">
 
@@ -247,10 +226,10 @@ All-source intelligence console for cyber-crime investigators and OSINT analysts
 
 ---
 
-<!-- ─── FOOTER ─────────────────────────────────────────────────── -->
+<!-- --- FOOTER --------------------------------------------------- -->
 
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt="Access Granted — Build. Break. Analyze. Secure."/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- =============================================================== -->

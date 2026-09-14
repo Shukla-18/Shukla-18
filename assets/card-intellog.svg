@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500">
+<defs>
+<filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="g2"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="500" height="200" fill="#0d1427"/>
+<rect x="8" y="8" width="162" height="184" fill="#0a0e1a" rx="2"/>
+<line x1="8" y1="48" x2="170" y2="48" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="88" x2="170" y2="88" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="128" x2="170" y2="128" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="168" x2="170" y2="168" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="48" y1="8" x2="48" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="88" y1="8" x2="88" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="128" y1="8" x2="128" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+
+<circle cx="89" cy="92" r="36" fill="none" stroke="#00d4ff" stroke-width="1.5" filter="url(#g)"/>
+<circle cx="89" cy="92" r="36" fill="none" stroke="#00d4ff" stroke-width="1"/>
+<circle cx="89" cy="92" r="26" fill="none" stroke="#1e3a5f" stroke-width=".8"/>
+<line x1="89" y1="66" x2="89" y2="118" stroke="#1e3a5f" stroke-width=".5"/>
+<line x1="63" y1="92" x2="115" y2="92" stroke="#1e3a5f" stroke-width=".5"/>
+<line x1="73" y1="82" x2="105" y2="82" stroke="#00d4ff" stroke-width="1.2" opacity=".7"/>
+<line x1="69" y1="90" x2="109" y2="90" stroke="#00d4ff" stroke-width="1.2" opacity=".5"/>
+<line x1="73" y1="98" x2="100" y2="98" stroke="#00d4ff" stroke-width="1.2" opacity=".7"/>
+<line x1="75" y1="106" x2="90" y2="106" stroke="#00d4ff" stroke-width="1.2" opacity=".4"/>
+<line x1="115" y1="118" x2="135" y2="138" stroke="#00d4ff" stroke-width="5" stroke-linecap="round" filter="url(#g)"/>
+<line x1="115" y1="118" x2="135" y2="138" stroke="#00d4ff" stroke-width="3.5" stroke-linecap="round"/>
+<text x="89" y="158" font-family="Courier New,monospace" font-size="8" fill="#475569" text-anchor="middle" letter-spacing="1">FORENSICS</text>
+
+<line x1="178" y1="14" x2="178" y2="186" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="176" y="16" width="3" height="22" fill="#00d4ff" opacity=".5"/>
+<text x="190" y="32" font-family="Courier New,monospace" font-size="9" fill="#475569" letter-spacing="2">SHUKLA-18</text>
+<text x="190" y="54" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="16" fill="#e2e8f0">INTELLOG</text>
+<text x="190" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">Hybrid Rule-Driven + AI-Assisted</text>
+<text x="190" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">Cyber Forensics Platform</text>
+<rect x="190" y="104" width="53" height="14" rx="2" fill="#1e3a5f"/><text x="197" y="115" font-family="Courier New,monospace" font-size="8" fill="#00ff88" letter-spacing="1">PYTHON</text><rect x="251.0" y="104" width="46" height="14" rx="2" fill="#1e3a5f"/><text x="258.0" y="115" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" letter-spacing="1">AI/ML</text><rect x="305.5" y="104" width="72" height="14" rx="2" fill="#1e3a5f"/><text x="312.5" y="115" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" letter-spacing="1">FORENSICS</text>
+<text x="190" y="160" font-family="Courier New,monospace" font-size="8" fill="#475569" letter-spacing="2">STATUS</text>
+<circle cx="190" cy="174" r="4" fill="#00ff88" filter="url(#g2)"/>
+<text x="200" y="177" font-family="Courier New,monospace" font-size="9" fill="#00ff88" letter-spacing="1.5">ACTIVE</text>
+<rect x=".5" y=".5" width="499" height="199" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+<rect width="500" height="2" fill="#00d4ff" opacity=".8"/>
+</svg>

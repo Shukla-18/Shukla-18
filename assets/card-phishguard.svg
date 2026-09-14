@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" width="500">
+<defs>
+<filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="g2"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="500" height="200" fill="#0d1427"/>
+<rect x="8" y="8" width="162" height="184" fill="#0a0e1a" rx="2"/>
+<line x1="8" y1="48" x2="170" y2="48" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="88" x2="170" y2="88" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="128" x2="170" y2="128" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="8" y1="168" x2="170" y2="168" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="48" y1="8" x2="48" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="88" y1="8" x2="88" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+<line x1="128" y1="8" x2="128" y2="192" stroke="#1e3a5f" stroke-width=".3"/>
+
+<path d="M89 54 L132 68 L132 101 Q132 133 89 148 Q46 133 46 101 L46 68 Z" fill="none" stroke="#00d4ff" stroke-width="1.5" filter="url(#g)"/>
+<path d="M89 54 L132 68 L132 101 Q132 133 89 148 Q46 133 46 101 L46 68 Z" fill="none" stroke="#00d4ff" stroke-width="1"/>
+<path d="M89 62 L124 74 L124 101 Q124 127 89 140 Q54 127 54 101 L54 74 Z" fill="#1e3a5f" opacity=".2"/>
+<circle cx="89" cy="101" r="15" fill="none" stroke="#00ff88" stroke-width="1.5"/>
+<text x="89" y="108" font-family="Courier New,monospace" font-size="20" fill="#00ff88" text-anchor="middle" font-weight="700">@</text>
+<circle cx="116" cy="74" r="4" fill="#f59e0b" opacity=".8" filter="url(#g2)"/>
+<text x="89" y="160" font-family="Courier New,monospace" font-size="8" fill="#475569" text-anchor="middle" letter-spacing="1">DETECTION</text>
+
+<line x1="178" y1="14" x2="178" y2="186" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="176" y="16" width="3" height="22" fill="#00d4ff" opacity=".5"/>
+<text x="190" y="32" font-family="Courier New,monospace" font-size="9" fill="#475569" letter-spacing="2">SHUKLA-18</text>
+<text x="190" y="54" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="16" fill="#e2e8f0">PHISHGUARD</text>
+<text x="190" y="72" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">AI-Enabled Phishing Link</text>
+<text x="190" y="85" font-family="Segoe UI,Arial,sans-serif" font-size="10" fill="#94a3b8">Detection & Alert System</text>
+<rect x="190" y="104" width="53" height="14" rx="2" fill="#1e3a5f"/><text x="197" y="115" font-family="Courier New,monospace" font-size="8" fill="#00ff88" letter-spacing="1">PYTHON</text><rect x="251.0" y="104" width="27" height="14" rx="2" fill="#1e3a5f"/><text x="258.0" y="115" font-family="Courier New,monospace" font-size="8" fill="#00d4ff" letter-spacing="1">ML</text><rect x="286.0" y="104" width="66" height="14" rx="2" fill="#1e3a5f"/><text x="293.0" y="115" font-family="Courier New,monospace" font-size="8" fill="#f59e0b" letter-spacing="1">SECURITY</text>
+<text x="190" y="160" font-family="Courier New,monospace" font-size="8" fill="#475569" letter-spacing="2">STATUS</text>
+<circle cx="190" cy="174" r="4" fill="#00ff88" filter="url(#g2)"/>
+<text x="200" y="177" font-family="Courier New,monospace" font-size="9" fill="#00ff88" letter-spacing="1.5">ACTIVE</text>
+<rect x=".5" y=".5" width="499" height="199" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+<rect width="500" height="2" fill="#00d4ff" opacity=".8"/>
+</svg>
