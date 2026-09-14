@@ -1,0 +1,43 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900">
+<defs>
+  <style>
+    @keyframes hscan{0%{transform:translateX(-900px);opacity:.7}100%{transform:translateX(900px);opacity:0}}
+    @keyframes fi{from{opacity:0}to{opacity:1}}
+    @keyframes fs{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+    .hs{animation:hscan 5s linear infinite}
+    .hs2{animation:hscan 5s linear 2.5s infinite}
+    .a1{animation:fi 1s ease-out .2s both}
+    .a2{animation:fs 1s ease-out .6s both}
+    .a3{animation:fi 1s ease-out 1s both}
+    .a4{animation:fi 1s ease-out 1.4s both}
+  </style>
+  <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#1e3a5f" stroke-width=".3" opacity=".5"/>
+  </pattern>
+  <clipPath id="c"><rect width="900" height="160"/></clipPath>
+  <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="tglow" x="-5%" y="-30%" width="110%" height="160%">
+    <feGaussianBlur stdDeviation="2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="sg" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#00d4ff" stop-opacity=".12"/>
+    <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="160" fill="#0a0e1a"/>
+<rect width="900" height="160" fill="url(#g)"/>
+<rect width="900" height="2" fill="#00d4ff" opacity=".5"/>
+<rect y="158" width="900" height="2" fill="#00d4ff" opacity=".25"/>
+<rect x="1" y="1" width="898" height="158" fill="none" stroke="#1e3a5f" stroke-width=".8"/>
+<rect class="hs" y="0" width="300" height="160" fill="url(#sg)" clip-path="url(#c)"/>
+<rect class="hs2" y="0" width="200" height="160" fill="url(#sg)" clip-path="url(#c)"/>
+<line x1="60" y1="80" x2="840" y2="80" stroke="#1e3a5f" stroke-width=".5" opacity=".6"/>
+<text x="450" y="70" font-family="Segoe UI,Arial Black,Impact,sans-serif" font-weight="900" font-size="38" fill="#00ff88" text-anchor="middle" letter-spacing="10" filter="url(#glow)" opacity=".92" class="a2">ACCESS GRANTED</text>
+<text x="450" y="105" font-family="Courier New,Courier,monospace" font-size="12" fill="#475569" text-anchor="middle" letter-spacing="7" class="a3">BUILD.   BREAK.   ANALYZE.   SECURE.</text>
+<text x="450" y="135" font-family="Courier New,Courier,monospace" font-size="11" fill="#00d4ff" text-anchor="middle" letter-spacing="3" opacity=".65" class="a4">github.com/Shukla-18</text>
+</svg>
